@@ -19,3 +19,6 @@ Mengumpulkan data loker untuk pencarian dengan mudah
 - frontend terdapat di `src/app/src`
 - backend terdapat di `src/`
 - untuk development modular ada dibagian `src/app/src/core` ditaruh disini agar tailwindcss bisa mendeteksi classnya
+
+## Preview
+![loker-scraper.avif](loker-scraper.avif)
