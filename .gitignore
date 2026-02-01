@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+# build/
+dist/
+wheels/
+bin/
+*.egg-info
+
+# Virtual environments
+.venv
+Loker Scraper_Data/
+plan/

@@ -1,0 +1,7 @@
+/* src/assets/style.css */
+@import "tailwindcss";
+
+@plugin "@iconify/tailwind4";
+
+
+/* Anda bisa menambahkan CSS global kustom lainnya di sini */

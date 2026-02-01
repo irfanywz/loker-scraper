@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/vheer*": ["../../core/tools/*"],
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
